@@ -1,0 +1,39 @@
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Form1.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Up.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Menu.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\GenerateResource.read.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\GenerateResource.write.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Properties.Resources.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.exe
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Form1.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Up.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Menu.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Properties.Resources.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.csproj.GenerateResource.Cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.exe
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.exe
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.XmlSerializers.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Form1.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Up.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Menu.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.Properties.Resources.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.csproj.GenerateResource.Cache
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.exe
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Release\Sys_UpAsientos.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpAsientos.exe.config

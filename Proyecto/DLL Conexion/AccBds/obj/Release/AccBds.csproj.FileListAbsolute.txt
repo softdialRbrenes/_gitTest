@@ -1,0 +1,30 @@
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll.config
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.XmlSerializers.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Release\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.XmlSerializers.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll.config
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.XmlSerializers.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.XmlSerializers.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll.config
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.XmlSerializers.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.pdb
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.csprojResolveAssemblyReference.cache
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.pdb
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.XmlSerializers.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll.config
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.XmlSerializers.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Release\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Release\AccBds.XmlSerializers.dll

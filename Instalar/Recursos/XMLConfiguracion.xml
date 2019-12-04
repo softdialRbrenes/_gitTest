@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EMP codigo="sys_sodexo" nombre="Sodexo" tipo="SQL Server" instancia="SYSWEB" ipCont="localhost" ipProd="localhost" port="" login="sa" pass="" />
+</Config>
+
+
+
+
+
+
+

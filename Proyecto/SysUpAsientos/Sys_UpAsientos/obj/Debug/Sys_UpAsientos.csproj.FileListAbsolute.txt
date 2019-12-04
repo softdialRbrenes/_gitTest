@@ -1,0 +1,106 @@
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\GenerateResource.read.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\GenerateResource.write.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+W:\Clientes\SODEXO\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+C:\SYSWEB 1.0\SODEXO\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe.config
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+W:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe.config
+W:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+W:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe.config
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache
+D:\Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe.config
+D:\Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+D:\Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe.config
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.exe
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.exe
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\Sys_UpAsientos.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.dll
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Debug\AccBds.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csprojResolveAssemblyReference.cache
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Form1.resources
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Up.resources
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Menu.resources
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.Properties.Resources.resources
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\SysUpAsientos\Sys_UpAsientos\obj\Debug\Sys_UpAsientos.csproj.GenerateResource.Cache

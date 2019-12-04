@@ -1,0 +1,72 @@
+D:\BAC\Accbds\AccBds\AccBds\obj\Debug\ResolveAssemblyReference.cache
+D:\BAC\Accbds\AccBds\AccBds\bin\Debug\AccBds.dll
+D:\BAC\Accbds\AccBds\AccBds\bin\Debug\AccBds.pdb
+D:\BAC\Accbds\AccBds\AccBds\obj\Debug\AccBds.dll
+D:\BAC\Accbds\AccBds\AccBds\obj\Debug\AccBds.pdb
+D:\BAC\Nuevo DLL\Proyect C#\AccBds\bin\Debug\AccBds.dll
+D:\BAC\Nuevo DLL\Proyect C#\AccBds\bin\Debug\AccBds.pdb
+D:\BAC\Nuevo DLL\Proyect C#\AccBds\obj\Debug\ResolveAssemblyReference.cache
+D:\BAC\Nuevo DLL\Proyect C#\AccBds\obj\Debug\AccBds.dll
+D:\BAC\Nuevo DLL\Proyect C#\AccBds\obj\Debug\AccBds.pdb
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+C:\Users\Elian\Desktop\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+C:\inetpub\wwwroot\SYSWEB\PROYECTOS\PROYECTOS ASPX\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\obj\Debug\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Sys_UpHours\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\~CARGA EXCEL ~\Nuevo Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.csprojResolveAssemblyReference.cache
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+W:\Clientes\SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+W:\SysWeb 2.0\Desarrollo Código\Clientes\Sodexo\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+\\SERVER-DATA\Soporte\~~ SOPORTE TECNICO ~~\--  SYSWEB 1.0  ---\CLIENTES\1- CLIENTES NACIONALES\SODEXO\INTERFAZ SODEXO\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+W:\Desarrollo\Trabajando\Temp\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+D:\Desarrollo\Sistemas - Aplicaciones\UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll.config
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.dll
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\bin\Debug\AccBds.pdb
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.csprojResolveAssemblyReference.cache
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.dll
+D:\_Clientes\SOFTDIAL\Proyectos\PD00007.UpAsientos\Proyecto\DLL Conexion\AccBds\obj\Debug\AccBds.pdb

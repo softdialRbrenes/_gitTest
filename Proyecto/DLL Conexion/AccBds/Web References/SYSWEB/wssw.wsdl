@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ObtenerConfig">
+        <s:complexType />
+      </s:element>
+      <s:element name="ObtenerConfigResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ObtenerConfigResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ObtenerConfigSoapIn">
+    <wsdl:part name="parameters" element="tns:ObtenerConfig" />
+  </wsdl:message>
+  <wsdl:message name="ObtenerConfigSoapOut">
+    <wsdl:part name="parameters" element="tns:ObtenerConfigResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SYSWEBSoap">
+    <wsdl:operation name="ObtenerConfig">
+      <wsdl:input message="tns:ObtenerConfigSoapIn" />
+      <wsdl:output message="tns:ObtenerConfigSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SYSWEBSoap" type="tns:SYSWEBSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ObtenerConfig">
+      <soap:operation soapAction="http://tempuri.org/ObtenerConfig" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SYSWEBSoap12" type="tns:SYSWEBSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ObtenerConfig">
+      <soap12:operation soapAction="http://tempuri.org/ObtenerConfig" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SYSWEB">
+    <wsdl:port name="SYSWEBSoap" binding="tns:SYSWEBSoap">
+      <soap:address location="http://localhost/wssw/wssw.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SYSWEBSoap12" binding="tns:SYSWEBSoap12">
+      <soap12:address location="http://localhost/wssw/wssw.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

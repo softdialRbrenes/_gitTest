@@ -1,0 +1,20 @@
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours_1._0.Form1.resources
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours_1._0.Up.resources
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours_1._0.Menu.resources
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours_1._0.Properties.Resources.resources
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\SYSWEB 1.0\SODEXHO\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours_1._0.Properties.Resources.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\GenerateResource.read.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\GenerateResource.write.1.tlog
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpAsientos.Form1.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpAsientos.Up.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpAsientos.Menu.resources
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpHours 1.0.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\Sys_UpHours 1.0.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.dll
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\bin\Release\AccBds.pdb
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours 1.0.exe
+C:\SYSWEB 1.0\SODEXHO\Nuevo Proyecto\SysUpAsientos\Sys_UpAsientos\obj\x86\Release\Sys_UpHours 1.0.pdb

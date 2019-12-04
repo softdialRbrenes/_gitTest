@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <EMP codigo="sys_pturbina" nombre="sys_pturbina" tipo="SQL Server" instancia="SYSWEB" ipCont="server" ipProd="server" port="" login="sa" pass="SFD2220175" />
+  <EMP codigo="sys_anarg" nombre="sys_anarg" tipo="SQL Server" instancia="SYSWEB" ipCont="server" ipProd="server" port="" login="sa" pass="SFD2220175" />
+  <EMP codigo="sys_ptsolucion" nombre="sys_ptsolucion" tipo="SQL Server" instancia="SYSWEB" ipCont="server" ipProd="server" port="" login="sa" pass="SFD2220175" />
+  <EMP codigo="sys_waterinn" nombre="sys_waterinn" tipo="SQL Server" instancia="SWNOVA" ipCont="localhost" ipProd="locahost" port="" login="sa" pass="Sfd2220175" />
+</Config>
+
+
+
+
+
+
+

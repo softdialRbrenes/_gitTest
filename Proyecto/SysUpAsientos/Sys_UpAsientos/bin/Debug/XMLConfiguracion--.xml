@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <BD tipo="SQL Server" instancia="SYSWEB" ipCont="192.168.5.200" ipProd="192.168.5.200" port="4446" login="sa" pass="SFD2220175" />
+  <EMPRESAS>
+    <EMP codigo="sys_prueba" nombre="Pruebas" />
+  </EMPRESAS>
+</Config>
